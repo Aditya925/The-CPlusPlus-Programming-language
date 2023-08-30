@@ -7,6 +7,7 @@
 #include "chap6_Null_pointer.cpp"
 #include "chap7_Dynamic_memory.cpp"
 #include "chap8_Dynamic_array.cpp"
+#include "chap9_Recursion.cpp"
 
 int main(){
 
@@ -17,7 +18,11 @@ int main(){
     // pass_by_reference();
     // null_pointer();
     // dynamic_memory();
-    dynamic_array();
+    // dynamic_array();
+    /* 
+       recursion();
+       factorial();
+    */
 
     std::cout << "END OF PROGRAM" << std::endl;
     return 0;
