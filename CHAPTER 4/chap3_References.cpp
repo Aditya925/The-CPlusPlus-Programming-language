@@ -19,4 +19,6 @@ int references(){
     // Modifying value through reference
     reference = 100;
     std::cout << "Modified Original: " << original << std::endl;
+
+    return 0;
 }
