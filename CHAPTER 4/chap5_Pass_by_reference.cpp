@@ -24,7 +24,7 @@ void swap(std::string &x, std::string &y){
     In C++, there are two common ways to pass arguments to functions: pass by value and pass by reference. 
     Each method has its own advantages and use cases.
 
-    - Pass by Value:
+    - PASS BY VALUE:
       When you pass an argument by value, a copy of the argument's value is made and provided to the 
       function. Any modifications made to the parameter within the function will not affect the 
       original argument outside the function. Here are the advantages of pass by value:
@@ -38,7 +38,7 @@ void swap(std::string &x, std::string &y){
 
       3. Simplicity: Pass by value is straightforward to use and understand, especially for basic data types.
 
-    - Pass by Reference:
+    - PASS BY REFERENCE:
       When you pass an argument by reference, you are passing a reference to the original variable. Any changes 
       made to the parameter within the function directly affect the original variable. Here are the advantages 
       of pass by reference:
@@ -56,7 +56,6 @@ void swap(std::string &x, std::string &y){
     your program:
     - Use pass by value when you want to protect the original data from being modified by the function and 
       when you're working with small or simple data types.
-
     - Use pass by reference when you want the function to modify the original data, when you're working with 
       large or complex data types to avoid copying, and when you need to achieve better performance.
 
