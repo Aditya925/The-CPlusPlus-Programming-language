@@ -4,6 +4,7 @@
 #include "chap3_References.cpp"
 #include "chap4_Const_parameters.cpp"
 #include "chap5_Pass_by_reference.cpp"
+#include "chap6_Null_pointer.cpp"
 
 int main(){
 
@@ -12,6 +13,7 @@ int main(){
     // references();
     // const_parameters();
     // pass_by_reference();
+    // null_pointer();
 
     std::cout << "END OF PROGRAM" << std::endl;
     return 0;
