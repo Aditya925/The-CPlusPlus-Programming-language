@@ -8,6 +8,7 @@
 #include "chap7_Dynamic_memory.cpp"
 #include "chap8_Dynamic_array.cpp"
 #include "chap9_Recursion.cpp"
+#include "chap10_Function_templates.cpp"
 
 int main(){
 
@@ -23,6 +24,7 @@ int main(){
        recursion();
        factorial();
     */
+   function_template();
 
     std::cout << "END OF PROGRAM" << std::endl;
     return 0;
