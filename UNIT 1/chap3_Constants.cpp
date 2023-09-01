@@ -13,4 +13,6 @@ int constants(){
     std::cout << PI << std::endl;
     std::cout << SPEED_OF_LIGHT << std::endl;
     std::cout << plancks_constant << std::endl;
+
+    return 0;
 }

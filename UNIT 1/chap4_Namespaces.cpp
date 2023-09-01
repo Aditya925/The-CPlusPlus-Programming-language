@@ -17,6 +17,8 @@ int namespaces_1(){
     int x = 0;
     std::cout << x << std::endl;
     std::cout << "namespaces_1() will print value 0 as declared" << std::endl;
+
+    return 0;
 }
 
 int namespaces_2(){
@@ -24,16 +26,22 @@ int namespaces_2(){
     std::cout << first::x << std::endl;
     std::cout << second::x << std::endl;
     std::cout << "This will print values of x from namespace first & second" << std::endl;
+
+    return 0;
 }
 
 int namespaces_3(){
     using namespace first;
     std::cout << x << std::endl;
     std::cout << "namespaces_3 will print value of x from first as we are implementing the 'using' directive" << std::endl;
+
+    return 0;
 }
 
 int namespaces_4(){
     using namespace second;
     std::cout << x << std::endl;
     std::cout << "namespaces_4 will print value of x from first as we are implementing the 'using' directive" << std::endl;
+
+    return 0;
 }
