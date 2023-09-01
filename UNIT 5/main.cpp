@@ -14,6 +14,7 @@ int main(){
        vector_loop();
        vector_operations();
     */
+   vectors();
 
     std::cout << "END OF PROGRAM" << std::endl;
     return 0;
