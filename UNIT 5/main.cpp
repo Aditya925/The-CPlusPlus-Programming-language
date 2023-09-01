@@ -5,7 +5,7 @@
 int main(){
 
     // struct_example();
-    struct_as_argument();
+    // struct_as_argument();
 
     std::cout << "END OF PROGRAM" << std::endl;
     return 0;
