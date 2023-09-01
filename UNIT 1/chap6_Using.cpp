@@ -19,4 +19,5 @@ int Using(){
     std::cout << "Age is " << age << std::endl;
     std::cout << "Weight is " << weight << std::endl;
 
+    return 0;
 }
