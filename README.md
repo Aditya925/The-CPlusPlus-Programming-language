@@ -16,3 +16,47 @@ Welcome to the Complete C++ Learning Repository! This repository contains a comp
     - Ternary operator
     - Logical operators
     - String methods
+
+2. UNIT 2 - Loops & Functions
+    - While loop
+    - Do-while loop
+    - For loop
+    - Break & Continue
+    - Nested loops
+    - Functions
+    - Return keyword
+    - Overloaded functions
+    - Variable scope
+
+3. UNIT 3 - Arrays
+    - Arrays
+    - Array functions
+    - Foreach loop
+    - Multidimensional arrays
+
+4. UNIT 4 - Memory
+    - Memory addresses
+    - Pointers
+    - References
+    - Pass by references
+    - Dynamic Memory
+    - Dynamic array
+    - Function templates
+
+5. UNIT 5 - Structs & Enums
+    - Structs
+    - Enums
+    - Vectors
+
+6. UNIT 6 - OOPS
+    - OOP
+    - Constructors
+    - Constructor overloading
+    - Abstraction
+    - Inheritance
+
+# FUTURE
+
+    - GPU programming with C++
+    - Vulkan with C++
+    - Embedded programming
