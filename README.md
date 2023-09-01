@@ -17,6 +17,7 @@ Welcome to the Complete C++ Learning Repository! This repository contains a comp
     - Logical operators
     - String methods
 
+
 2. UNIT 2 - Loops & Functions
     - While loop
     - Do-while loop
@@ -28,11 +29,13 @@ Welcome to the Complete C++ Learning Repository! This repository contains a comp
     - Overloaded functions
     - Variable scope
 
+
 3. UNIT 3 - Arrays
     - Arrays
     - Array functions
     - Foreach loop
     - Multidimensional arrays
+
 
 4. UNIT 4 - Memory
     - Memory addresses
@@ -43,10 +46,12 @@ Welcome to the Complete C++ Learning Repository! This repository contains a comp
     - Dynamic array
     - Function templates
 
+
 5. UNIT 5 - Structs & Enums
     - Structs
     - Enums
     - Vectors
+
 
 6. UNIT 6 - OOPS
     - OOP
@@ -54,6 +59,7 @@ Welcome to the Complete C++ Learning Repository! This repository contains a comp
     - Constructor overloading
     - Abstraction
     - Inheritance
+
 
 # FUTURE
 
