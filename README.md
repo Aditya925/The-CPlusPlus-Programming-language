@@ -63,6 +63,6 @@ Welcome to the Complete C++ Learning Repository! This repository contains a comp
 
 # FUTURE
 
-    - GPU programming with C++
-    - Vulkan with C++
-    - Embedded programming
+    -> GPU programming with C++
+    -> Vulkan with C++
+    -> Embedded programming
