@@ -17,7 +17,10 @@ int main(){
     */
     // constructor_overloading();
     // abstraction();
-    inheritance();
+    /*
+       inheritance_example1();
+       inheritance_example2();
+    */
 
     std::cout << "END OF PROGRAM" << std::endl;
     return 0;

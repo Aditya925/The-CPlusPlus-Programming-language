@@ -26,8 +26,7 @@ class Cat : public Animal{
             std::cout << "The cat goes meow" << std::endl;
         }
 };
-
-int inheritance(){
+int inheritance_example1(){
     Dog dog;
     Cat cat;
 
@@ -38,5 +37,41 @@ int inheritance(){
     std::cout << cat.alive << std::endl;
     cat.meow();
 
+    return 0;
+}
+
+class Shape{
+    public:
+        double area;
+        double volume;
+};
+class Cube : public Shape{
+    public:
+        double side;
+    Cube(double s){
+        this -> side = s;
+        this -> area = s*s*6;
+        this -> volume = s*s*s;
+    }
+};
+class Sphere : public Shape{
+    public:
+        double radius;
+    Sphere(double r){
+        this -> radius = r;
+        this -> area = 4*3.14*r;
+        this -> volume = (4/3.0)*3.14*r*r*r;
+    }
+};
+int inheritance_example2(){
+    Cube cube(10);
+    Sphere sphere(10);
+
+    std::cout << "Area of cube = " << cube.area << std::endl;
+    std::cout << "Volume of cube = " << cube.volume << std::endl;
+
+    std::cout << "Area of Sphere = " << sphere.area << std::endl;
+    std::cout << "Volume of Sphere = " << sphere.volume << std::endl;
+    
     return 0;
 }
