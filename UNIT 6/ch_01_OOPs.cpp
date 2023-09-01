@@ -86,7 +86,6 @@ int oop_example2(){
     std::cout << car1.model << std::endl;
     std::cout << car1.year << std::endl;
     std::cout << car1.colour << std::endl;
-
     car1.accelerate();
     car1.brake();
 
