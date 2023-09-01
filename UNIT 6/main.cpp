@@ -3,6 +3,7 @@
 #include "ch_02_Constructors.cpp"
 #include "ch_03_Constructor_overloading.cpp"
 #include "ch_04_Abstraction.cpp"
+#include "ch_05_Inheritance.cpp"
 
 int main(){
 
@@ -16,6 +17,7 @@ int main(){
     */
     // constructor_overloading();
     // abstraction();
+    inheritance();
 
     std::cout << "END OF PROGRAM" << std::endl;
     return 0;
