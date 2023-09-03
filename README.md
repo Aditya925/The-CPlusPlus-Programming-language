@@ -45,6 +45,9 @@ Welcome to the Complete C++ Learning Repository! This repository contains a comp
     - Dynamic Memory
     - Dynamic array
     - Function templates
+    - RAII principles
+    - Smart pointers
+    - Memory leaks
 
 
 5. UNIT 5 - Structs & Enums
@@ -53,12 +56,35 @@ Welcome to the Complete C++ Learning Repository! This repository contains a comp
     - Vectors
 
 
-6. UNIT 6 - OOPS
+6. UNIT 6 - STL(Standard Template Library)
+    - Index
+    - Vectors
+    - Lists
+    - Deque
+    - Std sets
+    - Std maps
+    - Algorithms
+    - Iterators
+    - Templates
+    - Generic programming
+
+
+7. UNIT 7 - OOPS
     - OOP
     - Constructors
     - Constructor overloading
     - Abstraction
     - Inheritance
+
+
+8. UNIT 8 - Exception Handling
+    - Basics
+    - Standard Exceptions
+
+
+9. UNIT 9 - File Handling
+    - Basics
+    - File error handling
 
 
 # FUTURE
