@@ -5,10 +5,10 @@
 int main(){
     /*
        reading_file();
-    writing_file();
-    readfile_error_handling();
-    writefile_error_handling();
-    appending_error_handling();
+       writing_file();
+       readfile_error_handling();
+       writefile_error_handling();
+       appending_error_handling();
     */
 
     std::cout << "END OF PROGRAM" << std::endl;
