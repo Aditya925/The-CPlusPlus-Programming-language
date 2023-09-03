@@ -1,0 +1,3 @@
+This is a line written to the file.
+We are writing to a file in C++.
+This line will be appended to the file.
