@@ -15,24 +15,20 @@ int main(){
        vector_loop();
        vector_operations();
     */
-    /*
-        lists();
-        deque();
-        sets();
-        maps();
-        sort_algorithm();
-        find_algorithms();
-        accumulate_algorithm();
-        for_each_algorithm();
-        iterators();
-        ranges();
-        templates_cpp();
-        generic_programming();
-    */
-    vectors();
-    vector_loop();
-    vector_operations();
+    // lists();
+    // deque();
+    // sets();
+    // maps();
+    // sort_algorithm();
+    // find_algorithms();
+    // accumulate_algorithm();
+    // for_each_algorithm();
+    // iterators();
+    // ranges();
+    // templates_cpp();
+    // generic_programming();
 
+    std::cout << "END OF PROGRAM" << std::endl;
     return 0;
 }
 
